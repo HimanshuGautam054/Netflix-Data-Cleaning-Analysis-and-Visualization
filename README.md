@@ -1,4 +1,4 @@
-Hello, GitHub community , I am excited to share my Second Project as a Data Analyst Intern at Unified Mentor Private Limited. This project involved Netflix Data: Cleaning, Analysis, and Visualization, Data obtained from Unified Mentor Private Limited itself.
+Hello, GitHub community, I am excited to share my Second Project as a Data Analyst Intern at Unified Mentor Private Limited. This project involved Netflix Data: Cleaning, Analysis, and Visualization, Data obtained from Unified Mentor Private Limited itself.
 
 🚀 PROJECT SPOTLIGHT:
 The primary objective of this project was to: Clean and prepare Netflix’s dataset for analysis. Uncover key patterns in content types, genre distribution, and release trends to understand Netflix’s evolving strategy better.
@@ -7,6 +7,7 @@ The primary objective of this project was to: Clean and prepare Netflix’s data
 
 
 🔍 Sample Insights: 
+
 •The majority of Netflix content is Movie, with a significant increase in Movie releases over the year
 
 •TV Shows are the second most common type of content, with a steady release pattern over the year
